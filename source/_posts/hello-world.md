@@ -1,5 +1,9 @@
-title: Generating Poetry with Python
+title: Generating Poetry with Python, pt. I
 ---
+### Links:
+[Live Example](http://wordsmith.es/poetry_generator)
+[Full Project Code](https://github.com/CameronSima/python_poetry_generator)
+
 Writing isn't fun. It's tedious and time-consuming. One of the neat things about computer programming is it allows you to make difficult, slow, and boring things much less so. Want to write a blog/novel/book of poetry without having to worry about all that...writing? Computers are smart -- why can't they do all the work for us?
 
 Such were the sort of thoughts that led me to the topic of the [Markov Chain](https://en.wikipedia.org/wiki/Markov_chain), a model which outlines a sequence of possible events where the probability of each event depends on the state of the previous event. Basically, it's an algorithm which detects patterns statelessly. From Wikipedia: 

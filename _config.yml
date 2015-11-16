@@ -16,7 +16,7 @@ language: en
 timezone:
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://ppoffice.github.io/hexo-theme-icarus
+url: http://CameronSima.github.io
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -79,5 +79,5 @@ theme: icarus
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repository: https://github.com/ppoffice/hexo-theme-icarus.git
-  branch: gh-pages
+  repository: https://github.com/CameronSima/cameronsima.github.io
+  branch: master
